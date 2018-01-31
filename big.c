@@ -1,5 +1,5 @@
 #include <stdio.h> 
-int big()
+void main()
 { 
 int a, b, c; 
 printf("Enter a,b,c: "); 
@@ -19,6 +19,6 @@ else
 { 
 printf("all are equal or any two values are equal"); 
 } 
-return 0; 
+
 }
 
